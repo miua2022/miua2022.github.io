@@ -1,0 +1,53 @@
+
+------------------done-----------------------------------------
+
+-- To keep 'Sponsors' in the menu as in the original template confirmed so far:
+
+The British Machine Vision Association (BMVA)
+https://britishmachinevisionassociation.github.io/
+
+
+In the same 'Sponsors' section to add below the sponsors a subtitle 
+'Partnership' and put these 3 logos:
+
+miua_2022/images/2022/logo_CMIH.jpg
+miua_2022/images/2022/logo_Imperial.png
+miua_2022/images/2022/logoINI.jpg
+
+-- yes, Guang is based at Imperial College. 
+-- the email for the conference is: gateway@newton.ac.uk and I will ask about the twitter account. 
+
+
+-- 'Organizing Committee' section
+
+Change 'Organizing' for 'Organising'
+
+The Chairs are comprised of academic members from Cambridge Mathematics of Information in Healthcare Hub (CMIH) at the University of Cambridge and  Imperial College London. 
+
+To add Carola's picture in the Chairs: miua_2022/images/2022/2022_committee/  and twitter @caromitreka
+- Guang Yang twitter:  @gyangMedIA
+
+In this section, please add below the pictures as a list form the following:
+
+Local Organising Committee:
+Claire Bonner - Newton Gateway to Mathematics
+Clare Merritt - Newton Gateway to Mathematics
+Josh Stevens - University of Cambridge
+
+Local Volunteers:
+Zhening Huang (University of Cambridge) 
+Lihao Liu (University of Cambridge) 
+
+------------------Todo---------------------------------
+
+
+
+
+-- We need still to create a twitter account and a personalised email. 
+
+Some updates to do:
+
+
+
+
+we will add more later
