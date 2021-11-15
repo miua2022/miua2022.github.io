@@ -61,6 +61,14 @@
 
 .ion-android-boat:before { content: "\f36a"; }
 
+.icon {
+  background: url('images/2022/personal web.png');
+  height: 20px;
+  width: 20px;
+  display: block;
+  /* Other styles here */
+}
+
 .ion-android-bookmark:before { content: "\f36b"; }
 
 .ion-android-bulb:before { content: "\f36c"; }
